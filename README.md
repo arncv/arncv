@@ -6,7 +6,7 @@
 
 👀 I’m interested in Pentesting, Info-Security and Open-Source
  - 🌱 I’m currently learning OSINT & Web-Penetration and started participating in CTFs
- - Currently exploring various things , I may update this frequently ! Thanks :)
+ - Also exploring various things , I may update this frequently ! Thanks :)
  
 
 <h3 align="left">Connect with me:</h3>
