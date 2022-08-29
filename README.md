@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arncv&label=Profile%20views&color=0e75b6&style=flat" alt="arncv" /> </p>
 
 
-👀 I’m interested in Pentesting, Info-Security and Open-Source
+👀 I’m interested in Open-Source
  - 🌱 I’m currently learning OSINT & Web-Penetration and started participating in CTFs
  - Also exploring various things , I may update this frequently ! Thanks :)
  
