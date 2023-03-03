@@ -5,7 +5,7 @@
 
 
 👀 I’m interested in Open-Source & passionate about Technology :) 
- - 🌱 I’m currently learning OSINT & Web-Penetration and started participating in CTFs
+
  - Deep diving in the world of open source and DEV(maybe :c)
  
  - Also exploring various things , I may update this frequently ! Thanks :)
