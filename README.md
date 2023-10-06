@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
-<h3 align="center">Student at MSIT, Delhi </h3>
+<h3 align="center">junior at MSIT, Delhi </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arncv&label=Profile%20views&color=0e75b6&style=flat" alt="arncv" /> </p>
 
